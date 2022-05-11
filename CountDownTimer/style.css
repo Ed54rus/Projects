@@ -6,8 +6,8 @@
 		rgb(79, 176, 255),
 		rgb(191, 148, 255)
 	);
-	--gradient_1: #ffe51f;
-	--gradient_2: #ed8e4b;
+	--gradient-1: #ffe51f;
+	--gradient-2: #ed8e4b;
 }
 
 * {
@@ -98,9 +98,9 @@ body {
 	transition: stroke-dasharray 1s linear;
 }
 
-.gradient_1 {
-	stop-color: var(--gradient_1);
+.gradient-1 {
+	stop-color: var(--gradient-1);
 }
-.gradient_2 {
-	stop-color: var(--gradient_2);
+.gradient-2 {
+	stop-color: var(--gradient-2);
 }
